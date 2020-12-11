@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaMundo.App", "HolaMundoApp\HolaMundo.App.csproj", "{F142B859-5248-4398-B1C5-B8A8F607184D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematica", "calculadora\Matematica.csproj", "{47EC980F-E673-4041-9FDE-4399D74424E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F142B859-5248-4398-B1C5-B8A8F607184D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F142B859-5248-4398-B1C5-B8A8F607184D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F142B859-5248-4398-B1C5-B8A8F607184D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F142B859-5248-4398-B1C5-B8A8F607184D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EC980F-E673-4041-9FDE-4399D74424E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EC980F-E673-4041-9FDE-4399D74424E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EC980F-E673-4041-9FDE-4399D74424E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EC980F-E673-4041-9FDE-4399D74424E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {011869A7-C3B8-40E9-9D4A-C843013045A3}
+	EndGlobalSection
+EndGlobal
